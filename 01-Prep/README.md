@@ -1,5 +1,9 @@
 # Linux Prep
 
+## PuTTY
+
+Multi-tabbed PuTTY: http://ttyplus.com/downloads.html
+
 ## Each Node
 
 *	RedHat Enterprise Linux 7
