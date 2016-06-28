@@ -18,7 +18,9 @@ sudo yum install gcc-c++
 
 sudo pip install jupyter
 
-jupyter notebook --ip='*' --NotebookApp.password='{your password hash'
+sudo yum install python-pandas
+
+jupyter notebook --ip='*' --NotebookApp.password='{your password hash}'
 
 ```
 
